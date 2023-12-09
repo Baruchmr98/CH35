@@ -1,0 +1,21 @@
+:root{
+    --font-primary: 'Poppins', sans-serif;
+    --color-background: rgba(38,7,24,1);
+    --color-primary: rgba(114, 25, 41, 1);
+    --color-secondary: rgba(165, 36, 60, 1);
+    --color-txt-primary: rgba(242, 180, 145, 1);
+    --color-txt-secondary: rgba(242, 132, 92, 1);
+    }
+body{
+    background-color: var(--color-background);
+    color: var(--color-txt-primary);
+    font-family:var(--font-primary)
+}
+
+.position{
+    width: 100px;
+    height: 100px;
+    background-color: var(--color-secondary);
+}
+
+
