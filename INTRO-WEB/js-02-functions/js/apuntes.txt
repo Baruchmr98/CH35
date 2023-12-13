@@ -1,0 +1,17 @@
+6 tippos de funciones.
+
+"function 'x' () {console.log();}        Función normal.
+'x';"
+
+"function 'x' () {return;}               Función que retorna.
+console.log('x');
+
+"function 'x' (x, y) {return 'x, y';}    Función que retorna, con parámetros.
+let 'y' = 'x'(x,y);
+console.log('y');
+
+
+
+
+
+
